@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192668800171",
+    "firebase_url": "https://venter-120b3.firebaseio.com",
+    "project_id": "venter-120b3",
+    "storage_bucket": "venter-120b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192668800171:android:2b427be85584b4915e93ee",
+        "android_client_info": {
+          "package_name": "com.example.venter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192668800171-6jahdodihr5rrgkh3rcols6g2h41f16s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venter",
+            "certificate_hash": "aced74be8f6780bc4048994dca9d5aa737681b9a"
+          }
+        },
+        {
+          "client_id": "192668800171-a7l7jm9d8kvsgk0c1t0tiqs0plhfrjcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALb6d6XPxhx9AHsw9rfmelmSFhS_t8uTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192668800171-a7l7jm9d8kvsgk0c1t0tiqs0plhfrjcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BoutiqueActivity">
+
+    <TextView
+        android:id="@+id/slogan_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:text="Ajouter un produit"
+        android:textAlignment="center"
+        android:textSize="26sp"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/indication"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:text="Choisir une categorie"
+        android:textAlignment="center"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:background="@drawable/bouttons"
+        android:textColor="@android:color/white"
+
+        />
+
+
+        />
+
+    <Button
+        android:id="@+id/makup"
+        android:layout_width="178dp"
+        android:layout_height="137dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/aa" />
+
+    <Button
+        android:id="@+id/habillement"
+        android:layout_width="240dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/bb" />
+
+    <Button
+        android:id="@+id/accessoire"
+        android:layout_width="190dp"
+        android:layout_height="135dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/cc1" />
+
+    <Button
+        android:id="@+id/vetements"
+        android:layout_width="235dp"
+        android:layout_height="136dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/dd" />
+
+    n <Button
+        android:id="@+id/electromenager"
+        android:layout_width="199dp"
+        android:layout_height="139dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="560dp"
+        android:background="@drawable/ff1" />
+
+    <Button
+        android:id="@+id/resto"
+        android:layout_width="182dp"
+        android:layout_height="157dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="560dp"
+        android:background="@drawable/ff" />
+
+</RelativeLayout>

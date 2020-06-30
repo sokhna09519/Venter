@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logo1"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/app_logo"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        />
+    <TextView
+        android:id="@+id/appslogan"
+        android:layout_width="220dp"
+        android:layout_alignParentEnd="true"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="200dp"
+        android:text="VENTER...le marché chez vous"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22sp"
+        android:textStyle="italic|bold"
+        />
+
+
+    <Button
+        android:id="@+id/s_inscrirecrire"
+
+        android:layout_width="153dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="244dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="42dp"
+        android:layout_marginTop="655dp"
+        android:background="@drawable/boutton_simple"
+        android:padding="10dp"
+        android:text="S'inscrire"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/se_connecter"
+
+        android:layout_width="153dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="555dp"
+
+
+        android:background="@drawable/boutton_simple"
+        android:padding="10dp"
+        android:text="Mon compte"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/test"
+
+        android:layout_width="259dp"
+
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="420dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/boutton_simple"
+
+        android:padding="10dp"
+        android:text="Visiter"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
