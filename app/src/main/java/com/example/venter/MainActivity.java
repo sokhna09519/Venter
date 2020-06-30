@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view)
             {
-                Intent intent = new Intent(MainActivity.this,AcceuilboutiqueActivity.class);
+                Intent intent = new Intent(MainActivity.this,AcceuilActivity.class);
                 startActivity(intent);
 
             }
