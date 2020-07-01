@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".detailleprodActivity">
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/image1"
+        android:layout_marginLeft="50dp"/>
+
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="220dp"
+            android:layout_marginLeft="50dp"
+            android:text="Montre pour homme"
+            android:textColor="@android:color/black" />
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="270dp"
+            android:layout_marginLeft="50dp"
+
+            android:text="Rolex original Marque deposer"
+            android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginLeft="50dp"
+
+        android:text="50000FCFA"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="50dp"
+
+        android:text="Fatou Shop"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="420dp"
+        android:layout_marginLeft="50dp"
+
+        android:text="Dakar"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="470dp"
+        android:layout_marginLeft="50dp"
+
+        android:text="Ouest foire"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="520dp"
+        android:layout_marginLeft="50dp"
+
+        android:text="770716617"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginLeft="50dp"
+
+        android:text="satoumariama@gmail.com"
+        android:textColor="@android:color/black" />
+
+
+
+
+</RelativeLayout>

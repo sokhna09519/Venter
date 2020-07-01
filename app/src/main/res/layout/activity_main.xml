@@ -36,14 +36,8 @@
 
         android:layout_width="153dp"
         android:layout_height="40dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="244dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginRight="15dp"
-        android:layout_marginBottom="42dp"
-        android:layout_marginTop="655dp"
-        android:background="@drawable/boutton_simple"
+android:layout_marginTop="2dp"
+        android:background="@drawable/boutton_simples"
         android:padding="10dp"
         android:text="S'inscrire"
         android:textAllCaps="false"
@@ -54,13 +48,13 @@
     <Button
         android:id="@+id/se_connecter"
 
-        android:layout_width="153dp"
-        android:layout_height="40dp"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="555dp"
+        android:layout_width="270dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="510dp"
 
 
-        android:background="@drawable/boutton_simple"
+        android:background="@drawable/bouttons"
         android:padding="10dp"
         android:text="Mon compte"
         android:textAllCaps="false"
@@ -70,13 +64,13 @@
     <Button
         android:id="@+id/test"
 
-        android:layout_width="259dp"
+        android:layout_width="270dp"
 
-        android:layout_height="wrap_content"
+        android:layout_height="45dp"
         android:layout_marginLeft="50dp"
-        android:layout_marginTop="420dp"
+        android:layout_marginTop="450dp"
         android:layout_marginRight="30dp"
-        android:background="@drawable/boutton_simple"
+        android:background="@drawable/bouttons"
 
         android:padding="10dp"
         android:text="Visiter"

@@ -13,4 +13,6 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="rolex_original_marque_deposer">Rolex original Marque deposer</string>
 </resources>

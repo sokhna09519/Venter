@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/nav_home"
         android:name="com.example.venter.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="Acceuil"
         tools:layout="@layout/fragment_home">
 
         <action
@@ -18,7 +18,7 @@
     <fragment
         android:id="@+id/nav_home_second"
         android:name="com.example.venter.ui.home.HomeSecondFragment"
-        android:label="@string/home_second"
+        android:label="Acceuil"
         tools:layout="@layout/fragment_home_second">
         <action
             android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
@@ -32,12 +32,12 @@
     <fragment
         android:id="@+id/nav_gallery"
         android:name="com.example.venter.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="Vetements Hommes"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="com.example.venter.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="Accesoires"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>

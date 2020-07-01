@@ -9,11 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AcceuilboutiqueActivity" />
+        <activity android:name=".detailleprodActivity"></activity>
         <activity
-            android:name=".AcceuilActivity"
-            android:label="@string/title_activity_acceuil"
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AcceuilboutiqueActivity" />
         <activity android:name=".AddProdActivity" />
         <activity android:name=".BoutiqueActivity" />
         <activity android:name=".ajout_produitActivity" />
